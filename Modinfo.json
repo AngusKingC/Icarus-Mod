@@ -1,0 +1,17 @@
+{
+  "mods": [
+    {
+      "name": "AK23 Misson Focus",
+      "author": "Angus King",
+      "version": "1.0",
+      "compatibility": "w57",
+      "description": "4 Workshops items for quick start",
+      "files": {
+        "pak": "the direct download URL for your PAK mod file",
+        "exmodz": "https://github.com/AngusKingC/Icarus-Mod/blob/main/King%20Mission%20Focused.EXMOD"
+      },
+      "imageURL": "A direct download URL to an image that will be displayed in the mod list (optional)",
+      "readmeURL": "https://github.com/AngusKingC/Icarus-Mod/blob/main/README.md"
+    }
+  ]
+}
