@@ -1,0 +1,1491 @@
+{
+    "name": "AK23 Mission Focus",
+    "author": "AK23",
+    "version": "1.0",
+    "description": "Adds building packs that allow you to focus on completing mission, 1 Includes building materials, 2 Includes Deployables, 3 Includes Resources, 4 Includes Weapons, Armor & Buffs ",
+    "fileName": "AK23 Mission Focus",
+    "readmeURL": "",
+    "imageURL": "",
+    "Level2": "True",
+    "Rows": [
+        {
+            "CurrentFile": "Items-D_ItemsStatic.json",
+            "File_Items": [
+                {
+                    "Name": "Meta_AK_Mission",
+                    "Meshable": {
+                        "RowName": "Mesh_Meta_Item_Repair"
+                    },
+                    "Itemable": {
+                        "RowName": "Item_Meta_AK_Mission"
+                    },
+                    "Interactable": {
+                        "RowName": "Item"
+                    },
+                    "Highlightable": {
+                        "RowName": "Generic"
+                    },
+                    "Consumable": {
+                        "RowName": "Meta_AK_Mission"
+                    },
+                    "Usable": {
+                        "RowName": "Consume"
+                    },
+                    "Decayable": {
+                        "RowName": "Decay_General"
+                    },
+                    "Audio": {
+                        "RowName": "Default"
+                    },
+                    "Manual_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Item.Meta.Consumable"
+                            }
+                        ]
+                    },
+                    "Generated_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Item.Meta.Consumable"
+                            },
+                            {
+                                "TagName": "Traits.Meshable"
+                            },
+                            {
+                                "TagName": "Traits.Itemable"
+                            },
+                            {
+                                "TagName": "Traits.Interactable"
+                            },
+                            {
+                                "TagName": "Traits.Highlightable"
+                            },
+                            {
+                                "TagName": "Traits.Consumable"
+                            },
+                            {
+                                "TagName": "Traits.Usable"
+                            }
+                        ],
+                        "ParentTags": []
+                    }
+                },
+                {
+                    "Name": "Meta_AK_Mission2",
+                    "Meshable": {
+                        "RowName": "Mesh_Meta_Item_Repair"
+                    },
+                    "Itemable": {
+                        "RowName": "Item_Meta_AK_Mission2"
+                    },
+                    "Interactable": {
+                        "RowName": "Item"
+                    },
+                    "Highlightable": {
+                        "RowName": "Generic"
+                    },
+                    "Consumable": {
+                        "RowName": "Meta_AK_Mission2"
+                    },
+                    "Usable": {
+                        "RowName": "Consume"
+                    },
+                    "Decayable": {
+                        "RowName": "Decay_General"
+                    },
+                    "Audio": {
+                        "RowName": "Default"
+                    },
+                    "Manual_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Item.Meta.Consumable"
+                            }
+                        ]
+                    },
+                    "Generated_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Item.Meta.Consumable"
+                            },
+                            {
+                                "TagName": "Traits.Meshable"
+                            },
+                            {
+                                "TagName": "Traits.Itemable"
+                            },
+                            {
+                                "TagName": "Traits.Interactable"
+                            },
+                            {
+                                "TagName": "Traits.Highlightable"
+                            },
+                            {
+                                "TagName": "Traits.Consumable"
+                            },
+                            {
+                                "TagName": "Traits.Usable"
+                            }
+                        ],
+                        "ParentTags": []
+                    }
+                },
+                {
+                    "Name": "Meta_AK_Mission3",
+                    "Meshable": {
+                        "RowName": "Mesh_Meta_Item_Repair"
+                    },
+                    "Itemable": {
+                        "RowName": "Item_Meta_AK_Mission3"
+                    },
+                    "Interactable": {
+                        "RowName": "Item"
+                    },
+                    "Highlightable": {
+                        "RowName": "Generic"
+                    },
+                    "Consumable": {
+                        "RowName": "Meta_AK_Mission3"
+                    },
+                    "Usable": {
+                        "RowName": "Consume"
+                    },
+                    "Decayable": {
+                        "RowName": "Decay_General"
+                    },
+                    "Audio": {
+                        "RowName": "Default"
+                    },
+                    "Manual_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Item.Meta.Consumable"
+                            }
+                        ]
+                    },
+                    "Generated_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Item.Meta.Consumable"
+                            },
+                            {
+                                "TagName": "Traits.Meshable"
+                            },
+                            {
+                                "TagName": "Traits.Itemable"
+                            },
+                            {
+                                "TagName": "Traits.Interactable"
+                            },
+                            {
+                                "TagName": "Traits.Highlightable"
+                            },
+                            {
+                                "TagName": "Traits.Consumable"
+                            },
+                            {
+                                "TagName": "Traits.Usable"
+                            }
+                        ],
+                        "ParentTags": []
+                    }
+                },
+                {
+                    "Name": "Meta_AK_Mission4",
+                    "Meshable": {
+                        "RowName": "Mesh_Meta_Item_Repair"
+                    },
+                    "Itemable": {
+                        "RowName": "Item_Meta_AK_Mission4"
+                    },
+                    "Interactable": {
+                        "RowName": "Item"
+                    },
+                    "Highlightable": {
+                        "RowName": "Generic"
+                    },
+                    "Consumable": {
+                        "RowName": "Meta_AK_Mission4"
+                    },
+                    "Usable": {
+                        "RowName": "Consume"
+                    },
+                    "Decayable": {
+                        "RowName": "Decay_General"
+                    },
+                    "Audio": {
+                        "RowName": "Default"
+                    },
+                    "Manual_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Item.Meta.Consumable"
+                            }
+                        ]
+                    },
+                    "Generated_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Item.Meta.Consumable"
+                            },
+                            {
+                                "TagName": "Traits.Meshable"
+                            },
+                            {
+                                "TagName": "Traits.Itemable"
+                            },
+                            {
+                                "TagName": "Traits.Interactable"
+                            },
+                            {
+                                "TagName": "Traits.Highlightable"
+                            },
+                            {
+                                "TagName": "Traits.Consumable"
+                            },
+                            {
+                                "TagName": "Traits.Usable"
+                            }
+                        ],
+                        "ParentTags": []
+                    }
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Traits-D_Itemable.json",
+            "File_Items": [
+                {
+                    "Name": "Item_Meta_AK_Mission",
+                    "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_AK_Mission-DisplayName\", \"Tier 1 Mission Kit\")",
+                    "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/ITEM_Meta_Crate_Printed.ITEM_Meta_Crate_Printed",
+                    "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_AK_Mission-Description\", \"Building materials for base.\")",
+                    "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_AK_Mission-FlavorText\", \"Kits Are New\")",
+                    "Weight": 5000
+                },
+                {
+                    "Name": "Item_Meta_AK_Mission2",
+                    "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_AK_Mission2-DisplayName\", \"Tier 2 Mission Kit\")",
+                    "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/ITEM_Meta_Crate_Printed.ITEM_Meta_Crate_Printed",
+                    "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_AK_Mission2-Description\", \"Deployables for base.\")",
+                    "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_AK_Mission2-FlavorText\", \"Kits Are New\")",
+                    "Weight": 5000
+                },
+                {
+                    "Name": "Item_Meta_AK_Mission3",
+                    "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_AK_Mission3-DisplayName\", \"Tier 3 Mission Kit\")",
+                    "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/ITEM_Meta_Crate_Printed.ITEM_Meta_Crate_Printed",
+                    "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_AK_Mission3-Description\", \"Resources.\")",
+                    "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_AK_Mission3-FlavorText\", \"Kits Are New\")",
+                    "Weight": 5000
+                },
+                {
+                    "Name": "Item_Meta_AK_Mission4",
+                    "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_AK_Mission4-DisplayName\", \"Tier 4 Mission Kit\")",
+                    "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Deployables/ITEM_Meta_Crate_Printed.ITEM_Meta_Crate_Printed",
+                    "Description": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_AK_Mission4-Description\", \"Weapons, Buffs & Tools.\")",
+                    "FlavorText": "NSLOCTEXT(\"D_Itemable\", \"Item_Meta_AK_Mission4-FlavorText\", \"Kits Are New\")",
+                    "Weight": 5000
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Items-D_ItemTemplate.json",
+            "File_Items": [
+                {
+                    "Name": "Meta_AK_Mission",
+                    "ItemStaticData": {
+                        "RowName": "Meta_AK_Mission"
+                    }
+                },
+                {
+                    "Name": "Meta_AK_Mission2",
+                    "ItemStaticData": {
+                        "RowName": "Meta_AK_Mission2"
+                    }
+                },
+                {
+                    "Name": "Meta_AK_Mission3",
+                    "ItemStaticData": {
+                        "RowName": "Meta_AK_Mission3"
+                    }
+                },
+                {
+                    "Name": "Meta_AK_Mission4",
+                    "ItemStaticData": {
+                        "RowName": "Meta_AK_Mission4"
+                    }
+                },
+                {
+                    "Name": "Concrete_Frame_x42",
+                    "ItemStaticData": {
+                        "RowName": "Concrete_Frame"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 42
+                        }
+                    ]
+                },
+                {
+                    "Name": "Stone_Brick_Wall_x28",
+                    "ItemStaticData": {
+                        "RowName": "Stone_Brick_Wall"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 28
+                        }
+                    ]
+                },
+                {
+                    "Name": "Stone_Brick_Wall_Angle_x4",
+                    "ItemStaticData": {
+                        "RowName": "Stone_Brick_Wall_Angle"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 4
+                        }
+                    ]
+                },
+                {
+                    "Name": "Stone_Brick_Beaml_x11",
+                    "ItemStaticData": {
+                        "RowName": "Stone_Brick_Beam"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 11
+                        }
+                    ]
+                },
+                {
+                    "Name": "Stone_Brick_Floor_x12",
+                    "ItemStaticData": {
+                        "RowName": "Stone_Brick_Floor"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 12
+                        }
+                    ]
+                },
+                {
+                    "Name": "Wood_Floor_Refined_x56",
+                    "ItemStaticData": {
+                        "RowName": "Wood_Floor_Refined"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 56
+                        }
+                    ]
+                },
+                {
+                    "Name": "Glass_Wall_Tempered_x24",
+                    "ItemStaticData": {
+                        "RowName": "Glass_Wall_Tempered"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 24
+                        }
+                    ]
+                },
+                {
+                    "Name": "Glass_Floor_Tempered_x24",
+                    "ItemStaticData": {
+                        "RowName": "Glass_Floor_Tempered"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 24
+                        }
+                    ]
+                },
+                {
+                    "Name": "Glass_Door_x6",
+                    "ItemStaticData": {
+                        "RowName": "Glass_Door"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 6
+                        }
+                    ]
+                },
+                {
+                    "Name": "Wood_Railing_Refined_x14",
+                    "ItemStaticData": {
+                        "RowName": "Wood_Railing_Refined"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 14
+                        }
+                    ]
+                },
+                {
+                    "Name": "Wood_Railing_Gate_Refined_V2_x2",
+                    "ItemStaticData": {
+                        "RowName": "Wood_Railing_Gate_Refined_V2"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 2
+                        }
+                    ]
+                },
+                {
+                    "Name": "Stone_Brick_Halfpiece_x2",
+                    "ItemStaticData": {
+                        "RowName": "Stone_Brick_Halfpiece"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 2
+                        }
+                    ]
+                },
+                {
+                    "Name": "Stone_Brick_Ramp_x6",
+                    "ItemStaticData": {
+                        "RowName": "Stone_Brick_Ramp"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 6
+                        }
+                    ]
+                },
+                {
+                    "Name": "Stone_Brick_Floor_x18",
+                    "ItemStaticData": {
+                        "RowName": "Stone_Brick_Floor"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 18
+                        }
+                    ]
+                },
+                {
+                    "Name": "Kit_Generator_x4",
+                    "ItemStaticData": {
+                        "RowName": "Kit_Generator"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 4
+                        }
+                    ]
+                },
+                {
+                    "Name": "Fiber_Pack",
+                    "ItemStaticData": {
+                        "RowName": "Fiber"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 5000
+                        }
+                    ]
+                },
+                {
+                    "Name": "Stone_Pack",
+                    "ItemStaticData": {
+                        "RowName": "Stone"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 5000
+                        }
+                    ]
+                },
+                {
+                    "Name": "Wood_Pack",
+                    "ItemStaticData": {
+                        "RowName": "Wood"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 5000
+                        }
+                    ]
+                },
+                {
+                    "Name": "Sulfur_Pack",
+                    "ItemStaticData": {
+                        "RowName": "Sulfur"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 5000
+                        }
+                    ]
+                },
+                {
+                    "Name": "Charcoal_Pack",
+                    "ItemStaticData": {
+                        "RowName": "Charcoal"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 5000
+                        }
+                    ]
+                },
+                {
+                    "Name": "Silica_Pack",
+                    "ItemStaticData": {
+                        "RowName": "Silica"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 5000
+                        }
+                    ]
+                },
+                {
+                    "Name": "Leather_Pack",
+                    "ItemStaticData": {
+                        "RowName": "Leather"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 5000
+                        }
+                    ]
+                },
+                {
+                    "Name": "Bone_Pack",
+                    "ItemStaticData": {
+                        "RowName": "Bone"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 5000
+                        }
+                    ]
+                },
+                {
+                    "Name": "Fur_Pack",
+                    "ItemStaticData": {
+                        "RowName": "Fur"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 5000
+                        }
+                    ]
+                },
+                {
+                    "Name": "Oxite_Pack",
+                    "ItemStaticData": {
+                        "RowName": "Oxite"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 5000
+                        }
+                    ]
+                },
+                {
+                    "Name": "Iron_Pack",
+                    "ItemStaticData": {
+                        "RowName": "Metal_Ore"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 5000
+                        }
+                    ]
+                },
+                {
+                    "Name": "Copper_Pack",
+                    "ItemStaticData": {
+                        "RowName": "Copper_Ore"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 5000
+                        }
+                    ]
+                },
+                {
+                    "Name": "Gold_Pack",
+                    "ItemStaticData": {
+                        "RowName": "Gold_Ore"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 5000
+                        }
+                    ]
+                },
+                {
+                    "Name": "Aluminium_Pack",
+                    "ItemStaticData": {
+                        "RowName": "Bauxite"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 5000
+                        }
+                    ]
+                },
+                {
+                    "Name": "Platinum_Ore_Pack",
+                    "ItemStaticData": {
+                        "RowName": "Platinum_Ore"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 5000
+                        }
+                    ]
+                },
+                {
+                    "Name": "Titanium_Ore_Pack",
+                    "ItemStaticData": {
+                        "RowName": "Titanium_Ore"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 5000
+                        }
+                    ]
+                },
+                {
+                    "Name": "Coal_Ore_Pack",
+                    "ItemStaticData": {
+                        "RowName": "Coal_Ore"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 5000
+                        }
+                    ]
+                },
+                {
+                    "Name": "Raw_Meat_Pack",
+                    "ItemStaticData": {
+                        "RowName": "Raw_Meat"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 5000
+                        }
+                    ]
+                },
+                {
+                    "Name": "Salt_Pack",
+                    "ItemStaticData": {
+                        "RowName": "Salt"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 5000
+                        }
+                    ]
+                },
+                {
+                    "Name": "Battery_Lantern_x2",
+                    "ItemStaticData": {
+                        "RowName": "Battery_Lantern"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 2
+                        }
+                    ]
+                },
+                {
+                    "Name": "Electric_Furnace_Large_x4",
+                    "ItemStaticData": {
+                        "RowName": "Electric_Furnace_Large"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 4
+                        }
+                    ]
+                },
+                {
+                    "Name": "Shepherds_Pie_x10",
+                    "ItemStaticData": {
+                        "RowName": "Food_Shepherds_Pie"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 10
+                        }
+                    ]
+                },
+                {
+                    "Name": "Savory_Roll_x10",
+                    "ItemStaticData": {
+                        "RowName": "Savory_Roll"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 10
+                        }
+                    ]
+                },
+                {
+                    "Name": "Fruit_Muffin_x10",
+                    "ItemStaticData": {
+                        "RowName": "Fruit_Muffin"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 10
+                        }
+                    ]
+                },
+                {
+                    "Name": "Big_Breakfast_x10",
+                    "ItemStaticData": {
+                        "RowName": "Big_Breakfast"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 10
+                        }
+                    ]
+                },
+                {
+                    "Name": "Health_Elixir_x10",
+                    "ItemStaticData": {
+                        "RowName": "Health_Elixir"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 10
+                        }
+                    ]
+                },
+                {
+                    "Name": "Dressing_Kit_x10",
+                    "ItemStaticData": {
+                        "RowName": "Dressing_Kit"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 10
+                        }
+                    ]
+                },
+                {
+                    "Name": "Body_Legs_Attachment_Regen_Resistance_2_x2",
+                    "ItemStaticData": {
+                        "RowName": "Body_Legs_Attachment_Regen_Resistance_2"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 2
+                        }
+                    ]
+                },
+                {
+                    "Name": "Composite_Arrow_x200",
+                    "ItemStaticData": {
+                        "RowName": "Composite_Arrow"
+                    },
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "ItemableStack",
+                            "Value": 200
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Traits-D_Consumable.json",
+            "File_Items": [
+                {
+                    "Name": "Meta_AK_Mission",
+                    "Modifier": {
+                        "ModifierLifetime": 0
+                    },
+                    "Byproducts": [
+                        {
+                            "RowName": "Concrete_Frame_x42",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Stone_Brick_Wall_x28",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Stone_Brick_Wall_Angle_x4",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Stone_Brick_Beaml_x11",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Stone_Brick_Floor_x12",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Wood_Floor_Refined_x56",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Glass_Wall_Tempered_x24",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Glass_Door_x6",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Wood_Railing_Refined_x14",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Wood_Railing_Gate_Refined_V2_x2",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Stone_Brick_Halfpiece_x2",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Glass_Floor_Tempered_x24",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Stone_Brick_Ramp_x6",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Stone_Brick_floor_x18",
+                            "DataTableName": "D_ItemTemplate"
+                        }
+                    ]
+                },
+                {
+                    "Name": "Meta_AK_Mission2",
+                    "Modifier": {
+                        "ModifierLifetime": 0
+                    },
+                    "Byproducts": [
+                        {
+                            "RowName": "Fabricator",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Anvil_Bench_T4",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Carpentry_Bench_T4",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Masonry_Bench_T4",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Material_Processor",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Kit_Generator_x4",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Glassworking_Bench_V2",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Electric_Furnace_Large_x4",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Advanced_Alteration_Bench",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Chemistry_Bench",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Electric_Armour_Bench",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Electric_Stove",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Advanced_Kitchen_Sink",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Advanced_Kitchen_Bench",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Kit_Water_Pump",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Composter_Electric",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Electric_Oxite_Dissolver",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Water_Trough_T4",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Food_Trough_T4",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Water_Purifier_T4",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Jerrycan_Full",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "SplineTool_Water",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "SplineTool_Electricity",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Deep_Freeze",
+                            "DataTableName": "D_ItemTemplate"
+                        }
+                    ]
+                },
+                {
+                    "Name": "Meta_AK_Mission3",
+                    "Modifier": {
+                        "ModifierLifetime": 0
+                    },
+                    "Byproducts": [
+                        {
+                            "RowName": "Fiber_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Stone_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Wood_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Sulfur_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Silica_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Leather_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Bone_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Fur_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Oxite_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Iron_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Copper_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Gold_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Aluminium_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Platinum_Ore_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Titanium_Ore_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Raw_Meat_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Salt_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Battery_Lantern_x2",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Coal_Ore_Pack",
+                            "DataTableName": "D_ItemTemplate"
+                        }
+                    ]
+                },
+                {
+                    "Name": "Meta_AK_Mission4",
+                    "Modifier": {
+                        "ModifierLifetime": 0
+                    },
+                    "Byproducts": [
+                        {
+                            "RowName": "Compound_Bow",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Titanium_Knife",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Titanium_Sickle",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Titanium_Pickaxe",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Titanium_Axe",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Titanium_Hammer",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Composite_Chest",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Composite_Arms",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Composite_Head",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Composite_Feet",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Composite_Legs",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Shepherds_Pie_x10",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Savory_Roll_x10",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Fruit_Muffin_x10",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Big_Breakfast_x10",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Health_Elixir_x10",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Dressing_Kit_x10",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Tool_Attachment_Bleed",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Body_Legs_Attachment_Regen_Resistance_2_x2",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Body_Head_Attachment_Quick_Healing",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Ranged_Weapon_Attachment_Rapid_Fire",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Arms_Attachment_Tool_Use_2",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Feet_Legs_Attachment_Movement_Bonus_2",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Advanced_Alteration_Bench",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "SplineTool_Electricity",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Jerrycan_Full",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Portable_Generator",
+                            "DataTableName": "D_ItemTemplate"
+                        },
+                        {
+                            "RowName": "Composite_Arrow_x200",
+                            "DataTableName": "D_ItemTemplate"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Talents-D_TalentArchetypes.json",
+            "File_Items": [
+                {
+                    "Name": "Workshop_AK_Consumables",
+                    "Model": {
+                        "RowName": "Workshop"
+                    },
+                    "DisplayName": "NSLOCTEXT(\"D_TalentArchetypes\", \"Workshop_AK_Consumables-DisplayName\", \"AK\\'s Consumables\")",
+                    "Icon": "/Game/Assets/2DArt/UI/Icons/Icon_Consume.Icon_Consume"
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Talents-D_TalentTrees.json",
+            "File_Items": [
+                {
+                    "Name": "Workshop_AK_Consumables",
+                    "BackgroundTexture": "/Game/Assets/2DArt/UI/Windows/EmptyAsset.EmptyAsset",
+                    "Icon": "/Game/Assets/2DArt/UI/Items/Item_Icons/Tools/ITEM_Meta_Pickaxe.ITEM_Meta_Pickaxe",
+                    "Archetype": {
+                        "RowName": "Workshop_AK_Consumables"
+                    }
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Talents-D_Talents.json",
+            "File_Items": [
+                {
+                    "Name": "Workshop_AK_Mission_Start",
+                    "ExtraData": {
+                        "RowName": "Meta_AK_Mission",
+                        "DataTableName": "D_WorkshopItems"
+                    },
+                    "TalentTree": {
+                        "RowName": "Workshop_AK_Consumables"
+                    },
+                    "Position": {
+                        "X": 600,
+                        "Y": 650
+                    },
+                    "Size": {
+                        "X": 250,
+                        "Y": 250
+                    }
+                },
+                {
+                    "Name": "Workshop_AK_Mission2_Start",
+                    "ExtraData": {
+                        "RowName": "Meta_AK_Mission2",
+                        "DataTableName": "D_WorkshopItems"
+                    },
+                    "TalentTree": {
+                        "RowName": "Workshop_AK_Consumables"
+                    },
+                    "Position": {
+                        "X": 1000,
+                        "Y": 650
+                    },
+                    "Size": {
+                        "X": 250,
+                        "Y": 250
+                    }
+                },
+                {
+                    "Name": "Workshop_AK_Mission3_Start",
+                    "ExtraData": {
+                        "RowName": "Meta_AK_Mission3",
+                        "DataTableName": "D_WorkshopItems"
+                    },
+                    "TalentTree": {
+                        "RowName": "Workshop_AK_Consumables"
+                    },
+                    "Position": {
+                        "X": 600,
+                        "Y": 950
+                    },
+                    "Size": {
+                        "X": 250,
+                        "Y": 250
+                    }
+                },
+                {
+                    "Name": "Workshop_AK_Mission4_Start",
+                    "ExtraData": {
+                        "RowName": "Meta_AK_Mission4",
+                        "DataTableName": "D_WorkshopItems"
+                    },
+                    "TalentTree": {
+                        "RowName": "Workshop_AK_Consumables"
+                    },
+                    "Position": {
+                        "X": 1000,
+                        "Y": 950
+                    },
+                    "Size": {
+                        "X": 250,
+                        "Y": 250
+                    }
+                }
+            ]
+        },
+        {
+            "CurrentFile": "MetaWorkshop-D_WorkshopItems.json",
+            "File_Items": [
+                {
+                    "Name": "Meta_AK_Mission",
+                    "Item": {
+                        "RowName": "Meta_AK_Mission"
+                    },
+                    "ResearchCost": [
+                        {
+                            "Meta": {
+                                "RowName": "Credits",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 10000
+                        },
+                        {
+                            "Meta": {
+                                "RowName": "Exotic1",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 5000
+                        }
+                    ],
+                    "ReplicationCost": [
+                        {
+                            "Meta": {
+                                "RowName": "Credits",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 2500
+                        },
+                        {
+                            "Meta": {
+                                "RowName": "Exotic1",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 1000
+                        }
+                    ]
+                },
+                {
+                    "Name": "Meta_AK_Mission2",
+                    "Item": {
+                        "RowName": "Meta_AK_Mission2"
+                    },
+                    "ResearchCost": [
+                        {
+                            "Meta": {
+                                "RowName": "Credits",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 15000
+                        },
+                        {
+                            "Meta": {
+                                "RowName": "Exotic1",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 10000
+                        }
+                    ],
+                    "ReplicationCost": [
+                        {
+                            "Meta": {
+                                "RowName": "Credits",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 6000
+                        },
+                        {
+                            "Meta": {
+                                "RowName": "Exotic1",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 2000
+                        }
+                    ]
+                },
+                {
+                    "Name": "Meta_AK_Mission3",
+                    "Item": {
+                        "RowName": "Meta_AK_Mission3"
+                    },
+                    "ResearchCost": [
+                        {
+                            "Meta": {
+                                "RowName": "Credits",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 10000
+                        },
+                        {
+                            "Meta": {
+                                "RowName": "Exotic1",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 5000
+                        }
+                    ],
+                    "ReplicationCost": [
+                        {
+                            "Meta": {
+                                "RowName": "Credits",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 4000
+                        },
+                        {
+                            "Meta": {
+                                "RowName": "Exotic1",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 1500
+                        }
+                    ]
+                },
+                {
+                    "Name": "Meta_AK_Mission4",
+                    "Item": {
+                        "RowName": "Meta_AK_Mission4"
+                    },
+                    "ResearchCost": [
+                        {
+                            "Meta": {
+                                "RowName": "Credits",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 10000
+                        },
+                        {
+                            "Meta": {
+                                "RowName": "Exotic1",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 5000
+                        }
+                    ],
+                    "ReplicationCost": [
+                        {
+                            "Meta": {
+                                "RowName": "Credits",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 4000
+                        },
+                        {
+                            "Meta": {
+                                "RowName": "Exotic1",
+                                "DataTableName": "D_MetaCurrency"
+                            },
+                            "Amount": 1500
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+}
